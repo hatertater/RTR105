@@ -1,0 +1,135 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  man firefox 
+    4  uname
+    5  whereis
+    6  pwd
+    7  ls
+    8  ls -a
+    9  ls -al
+   10  whoami
+   11  pwd
+   12  ls
+   13  ls -la
+   14  pwd
+   15  cd .
+   16  pwd
+   17  cd ..
+   18  pwd
+   19  whoami
+   20  cd desktop
+   21  ls
+   22  ls -la
+   23  cd sc
+   24  pwd
+   25  cd .
+   26  cd .. ls -la
+   27  ls -la
+   28  ls -a
+   29  apt-get install ranger
+   30  sudo apt-get install ranger
+   31  cd documents
+   32  ls
+   33  ls -a
+   34  cd ~/Documents
+   35  pwd
+   36  ls
+   37  cd
+   38  cd~
+   39  sh
+   40  exit
+   41  cd ~
+   42  cd
+   43  cd Documents
+   44  echo
+   45  echo $0
+   46  sh
+   47  exit
+   48  ps -aux | grep "sh"
+   49  $ ^[[A^[[B^[[A^[[B^[[A^[[A^[[A^[[A^[[A^[[A^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[[B^[                                                                      
+   50  kill 4030 
+   51  kill 4040
+   52  exit
+   53  sh
+   54  exit
+   55  sh
+   56  exit
+   57  sh
+   58  exit
+   59  sh
+   60  exit
+   61  touch aaa.txt
+   62  ls -l
+   63  cat aaa.txt 
+   64  echo pirmais teksts
+   65  ls -l aaa.txt 
+   66  echo pirmais teksts > aaa.txt 
+   67  echo otrais teksts > aaa.txt 
+   68  cat aaa.txt 
+   69  kartejais teksts >> aaa.txt 
+   70  echo kartejais teksts >> aaa.txt 
+   71  cat aaa.txt 
+   72  ls -l aaa.txt 
+   73  nano aaa.txt 
+   74  cp aaa.txt bbb.txt
+   75  mv ~/aaa.txt ~/Documents/ccc.txt
+   76  cd
+   77  cd /
+   78  mv ~/aaa.txt ~/Documents/ccc.txt
+   79  ls
+   80  cd
+   81  ls
+   82  cd Documents/
+   83  ls
+   84  cat ccc.txt 
+   85  cd
+   86  mv ./Documents/ccc.txt ddd.txt
+   87  ls
+   88  ls-l
+   89  ls -l
+   90  mkdir AtsujiesManaMape
+   91  mv *.txt AtsujiesManaMape/
+   92  ls
+   93  cd AtsujiesManaMape/
+   94  ls -l
+   95  cd 
+   96  rmdir AtsujiesManaMape/
+   97  rm -fr AtsujiesManaMape/
+   98  ls
+   99  nano MansPirmaisSkripts.sh
+  100  echo $PATH
+  101  ls /bin | grep ls
+  102  ls -l /bin/ls
+  103  cat /bin/ls
+  104  MansPirmaisSkripts.sh
+  105  ~/MansPirmaisSkripts.sh
+  106  echo $PATH 
+  107  $PATH=$PATH:~
+  108  PATH=$PATH:~/
+  109  echo $PATH
+  110  ls -l
+  111  chmod 740 MansPirmaisSkripts.sh 
+  112  lscd
+  113  ls -l
+  114  MansPirmaisSkripts.sh 
+  115  cd
+  116  nano MansPirmaisSkripts.sh 
+  117  MansPirmaisSkripts.sh 
+  118  nano MansPirmaisSkripts.sh 
+  119  MansPirmaisSkripts.sh 
+  120  nano MansPirmaisSkripts.sh 
+  121  MansPirmaisSkripts.sh 
+  122  ls
+  123  cd ManaMapeAuto/
+  124  ls
+  125  cat fff.txt 
+  126  nano MansPirmaisSkripts.sh 
+  127  cd
+  128  nano MansPirmaisSkripts.sh 
+  129  MansPirmaisSkripts.sh 
+  130  nano MansPirmaisSkripts.sh 
+  131  MansPirmaisSkripts.sh 
+  132  nano MansPirmaisSkripts.sh 
+  133  MansPirmaisSkripts.sh 
+  134  nano MansPirmaisSkripts.sh 
+  135  history > history_20190912b
