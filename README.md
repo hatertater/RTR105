@@ -13,3 +13,12 @@ sh - interpretētājs ierobežotākām atmiņām
 bash - normāls interpretētājs 
 ctrl alt t - jauns terminālis
 ctrl alt shift - jauns termināļa tabs (cilne)
+
+touch - izveido dokumentu
+cat - lasa dokumentu
+nano - atver teksta pārveidotāju
+cp - kopē
+mv - pārvieto
+rm - noņem
+echo $PATH - parādīt ceļu
+chmod - pārveido pieejamību failam
