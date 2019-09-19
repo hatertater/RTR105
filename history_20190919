@@ -1,0 +1,61 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  pwd
+    4  git clone https://github.com/hatertater/RTR105
+    5  ls
+    6  cd RTR105
+    7  LS
+    8  ls
+    9  nano git-upload
+   10  ls -l
+   11  chmod 700 git-upload 
+   12  ls -l
+   13  wheris git-upload 
+   14  whereis git-upload 
+   15  ./git-upload 
+   16  cat git-upload 
+   17  ./git-upload 20190919_15_00
+   18  bash
+   19  ./git-upload 20190919_15_00
+   20  nano git-upload 
+   21  ./git-upload 20190919_15_00
+   22  nano git-upload 
+   23  ./git-upload 20190919_15_00
+   24  pwd
+   25  cd
+   26  nano cd RTR105/
+   27  cd RTR105/
+   28  nano Elementary.c
+   29  mkdir darbi
+   30  mv Elementary.c darbi
+   31  cd darbi
+   32  cat Elementary.c 
+   33  nano Elementary.c 
+   34  gcc Elementary.c 
+   35  nano Elementary.c 
+   36  gcc Elementary.c 
+   37  ./a.out
+   38  gcc Elementary.c -o prg1
+   39  ls -l
+   40  ./prg1
+   41  nano Elementary.c 
+   42  gcc Elementary.c -o prg2
+   43  nano Elementary.c 
+   44  gcc Elementary.c -o hello
+   45  nano Elementary.c 
+   46  gcc Elementary.c -o hello
+   47  hello
+   48  ./hello
+   49  nano Elementary.c 
+   50  rm prg*
+   51  rm a.out
+   52  ls -l
+   53  LS
+   54  ls
+   55  .
+   56  cd.
+   57  cd .
+   58  cd ..
+   59  ls -l
+   60  nano README.md 
+   61  history > history_20190919

@@ -22,3 +22,8 @@ mv - pārvieto
 rm - noņem
 echo $PATH - parādīt ceļu
 chmod - pārveido pieejamību failam
+
+gcc - kompilē
+git - github stuff
+
+General C stuff
