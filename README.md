@@ -66,3 +66,19 @@ uniq izfiltrē blakus esošas vienādas teksta rindas
 grep meklē un parāda noteiktu rakstu tekstā
 
 sed meklē rakstu, izmaina un parāda to
+
+
+enviroment variables tiek izmantoti starp vairākām programmām
+
+export VARIABLE= "Value" konkretizē environment variable
+
+USER -lietotājvārds
+
+PS1 -command prompt
+
+HOME -home directory
+
+PATH - list of file paths
+
+env - list of environment variables
+
