@@ -1,0 +1,178 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/hatertater/RTR105
+    4  ls
+    5  cd RTR105/
+    6  LS
+    7  ls
+    8  nano
+    9  nano ifTests
+   10  gcc ifTests
+   11  ls
+   12  gcc ifTests 
+   13  nano ifTests 
+   14  mv ifTests ifTests.txt
+   15  ls
+   16  gcc ifTests.txt 
+   17  nano ifTests.txt 
+   18  mv ifTests.txt ifTests.c
+   19  gcc ifTests.c 
+   20  ./ifTests.c
+   21  ./ifTests
+   22  ls
+   23  ./a.out 
+   24  cp ifTests.c IfTestsButBettyer
+   25  nano IfTestsButBettyer 
+   26  mv IfTestsButBettyer IfTestsButBettyer.c 
+   27  gcc IfTestsButBettyer.c 
+   28  ls
+   29  ./a.out 
+   30  gcc IfTestsButBettyer.c b
+   31  ./a.out 
+   32  mv IfTestsButBettyer IfTestsButBetter.c 
+   33  mv IfTestsButBettyer.c IfTestsButBetter.c 
+   34  nano IfTestsButBetter.c 
+   35  gcc IfTestsButBetter.c 
+   36  ./a.out 
+   37  nano IfTestsButBetter.c 
+   38  gcc IfTestsButBetter.c 
+   39  ./a.out 
+   40  nano UltimateIfTests.c
+   41  touch UltimateIfTests.c
+   42  cp IfTestsButBetter.c UltimateIfTests.c 
+   43  nano UltimateIfTests.c 
+   44  gcc UltimateIfTests.c 
+   45  nano UltimateIfTests.c 
+   46  gcc UltimateIfTests.c 
+   47  nano UltimateIfTests.c 
+   48  gcc UltimateIfTests.c 
+   49  nano UltimateIfTests.c 
+   50  gcc UltimateIfTests.c 
+   51  nano UltimateIfTests.c 
+   52  gcc UltimateIfTests.c 
+   53  gcc UltimateIfTests.c h.out
+   54  ./a.out 
+   55  nano UltimateIfTests.c 
+   56  gcc UltimateIfTests.c h.out
+   57  gcc UltimateIfTests.c 
+   58  ./a.out 
+   59  nano ~/.bash_profile
+   60  source ~/.bash_profile
+   61  nano ~/.bash_profile
+   62  hy > history_20191010
+   63  source ~/.bash_profile
+   64  hy > history_20191010
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/hatertater/RTR105
+    4  ls
+    5  cd RTR105/
+    6  LS
+    7  ls
+    8  nano
+    9  nano ifTests
+   10  gcc ifTests
+   11  ls
+   12  gcc ifTests 
+   13  nano ifTests 
+   14  mv ifTests ifTests.txt
+   15  ls
+   16  gcc ifTests.txt 
+   17  nano ifTests.txt 
+   18  mv ifTests.txt ifTests.c
+   19  gcc ifTests.c 
+   20  ./ifTests.c
+   21  ./ifTests
+   22  ls
+   23  ./a.out 
+   24  cp ifTests.c IfTestsButBettyer
+   25  nano IfTestsButBettyer 
+   26  mv IfTestsButBettyer IfTestsButBettyer.c 
+   27  gcc IfTestsButBettyer.c 
+   28  ls
+   29  ./a.out 
+   30  gcc IfTestsButBettyer.c b
+   31  ./a.out 
+   32  mv IfTestsButBettyer IfTestsButBetter.c 
+   33  mv IfTestsButBettyer.c IfTestsButBetter.c 
+   34  nano IfTestsButBetter.c 
+   35  gcc IfTestsButBetter.c 
+   36  ./a.out 
+   37  nano IfTestsButBetter.c 
+   38  gcc IfTestsButBetter.c 
+   39  ./a.out 
+   40  nano UltimateIfTests.c
+   41  touch UltimateIfTests.c
+   42  cp IfTestsButBetter.c UltimateIfTests.c 
+   43  nano UltimateIfTests.c 
+   44  gcc UltimateIfTests.c 
+   45  nano UltimateIfTests.c 
+   46  gcc UltimateIfTests.c 
+   47  nano UltimateIfTests.c 
+   48  gcc UltimateIfTests.c 
+   49  nano UltimateIfTests.c 
+   50  gcc UltimateIfTests.c 
+   51  nano UltimateIfTests.c 
+   52  gcc UltimateIfTests.c 
+   53  gcc UltimateIfTests.c h.out
+   54  ./a.out 
+   55*  UltimateIfTests.c 
+   56  gcc UltimateIfTests.c h.out
+   57  gcc UltimateIfTests.c 
+   58  ./a.out 
+   59  nano ~/.bash_profile
+   60  source ~/.bash_profile
+   61  nano ~/.bash_profile
+   62  hy > history_20191010
+   63  source ~/.bash_profile
+   64  hy > history_20191010
+   65  hy
+   66  nano ~/.bash_profile
+   67  source ~/.bash_profile
+   68  nano ~/.bash_profile
+   69  source ~/.bash_profile
+   70  nano ~/.bash_profile
+   71  source ~/.bash_profile
+   72  nano ~/.bash_profile
+   73  source ~/.bash_profile
+   74  ENV
+   75  env
+   76  ./a.out 
+   77  nano UltimateIfTests.c 
+   78  gcc UltimateIfTests.c 
+   79  nano UltimateIfTests.c 
+   80  gcc UltimateIfTests.c 
+   81  ./a.out 
+   82  nano UltimateIfTests.c 
+   83  ls
+   84  cp ifTests.c whileTests
+   85  nano whileTests 
+   86  mv whileTests whileTests.c 
+   87  nano whileTests 
+   88  nano whileTests.c
+   89  gcc whileTests.c 
+   90  ./a.out
+   91  ./a.out 
+   92  nano whileTests.c
+   93  gcc whileTests.c 
+   94  ./a.out 
+   95  nano whileTests.c
+   96  gcc whileTests.c 
+   97  ./a.out 
+   98  nano whileTests.c
+   99  gcc whileTests.c 
+  100  ./a.out 
+  101  nano whileTests.c
+  102  gcc whileTests.c 
+  103  ./a.out 
+  104  nano whileTests.c
+  105  gcc whileTests.c 
+  106  nano whileTests.c
+  107  gcc whileTests.c 
+  108  ./a.out 
+  109  nano whileTests.c
+  110  gcc whileTests.c 
+  111  nano whileTests.c
+  112  ./a.out 
+  113  4
+  114  hy >> history_20191010
