@@ -82,3 +82,42 @@ PATH - list of file paths
 
 env - list of environment variables
 
+
+BASH
+
+Any command in the terminal can be run via Bash script
+
+Any variable is assigned by an immediate equals sign (greeting="hello")
+
+Variables are accessed via dollar sign (echo $greeting)
+
+conditionals use 
+
+if;
+then;
+else;
+fi;
+
+three typres of loops exist: for, while and until
+
+comparisons use unique operators:
+
+Equal (-eq)
+
+Not Equal (-ne)
+
+Less Than or Equal (-le)
+
+Less Than (-lt)
+
+Greater Than or Equal (-ge)
+
+Greater Than (-gt)
+
+Is Null (-z)
+
+Input arguments can be passed through bash script after the script name, seperated by spaces (myScript.sh “hello” “how are you”)
+
+Input can be requested through read
+
+Aliases for Bash scripts can be created in the ~/.bash_profile (.bashrc) via alias
