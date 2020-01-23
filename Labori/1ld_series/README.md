@@ -102,4 +102,4 @@ Rekursivais reizinatajs: __________________ * ________
 Kods izpilda visas prasibas, atskaitot “Tur nav nulle! Tur ir loti, loti maza vertiba – paradiet to”: pat liekot kodam reprezentet a499 un a 500 ar 100 ciparu aiz komata precizitati, nebija iespejams atrast nenulles skaitli aiz komata
 
 ### Bildes
-[Funkcijas grafiks]https://raw.githubusercontent.com/hatertater/RTR105/Labori/1ld_series/1.PNG
+[Funkcijas Grafiks] https://raw.githubusercontent.com/hatertater/RTR105/Labori/1ld_series/1.png
