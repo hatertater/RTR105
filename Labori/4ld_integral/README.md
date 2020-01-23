@@ -64,13 +64,14 @@ Simpsona formulas aprekini ir ieverojami sarezgitaki par jebkuras citas metodes 
 ### Rezultaats
 ```
 Funkcija: y=arctan(-x) intervala [a;b]
-Ievadiet a: 1
+Ievadiet a: -5
 Ievadiet b: 5
 Ievadiet kludu: 1
 Mainita kludas vertiba Simpsona metodei ir 1.00
-Noteiktais integralis pec taisnsturu metodes ir -4.47
-Noteiktais integralis pec trapecu metodes ir -4.76
-Noteiktais integralis pec Simpsona metodes ir -4.80
+Noteiktais integralis pec taisnsturu metodes ir 1.37
+Noteiktais integralis pec trapecu metodes ir 0.00
+Noteiktais integralis pec Simpsona metodes ir 0.46
+
 ```
 
 ### Analiize
@@ -78,3 +79,4 @@ Noteiktais integralis pec Simpsona metodes ir -4.80
 Kods darbojas pilnvertigi tikai ar veselu skaitlu kludas vertibam. Nezinams kludas del programma partrauc darbibu, ja delta_x ir decimals dalskaitlis
 
 ### Bildes
+[Integrāļa grafiks] https://raw.githubusercontent.com/hatertater/RTR105/master/Labori/4ld_integral/4.png
