@@ -80,3 +80,4 @@ Kods darbojas pilnvertigi tikai ar veselu skaitlu kludas vertibam. Nezinams klud
 
 ### Bildes
 [Integrāļa grafiks] https://raw.githubusercontent.com/hatertater/RTR105/master/Labori/4ld_integral/4.png
+[Pārbaude Wolfram Alpha] https://raw.githubusercontent.com/hatertater/RTR105/master/Labori/4ld_integral/4a.png
