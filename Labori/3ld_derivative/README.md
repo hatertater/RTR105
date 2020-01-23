@@ -101,3 +101,4 @@ Otras kartas atvasinajums ar diferencesanu uz prieksu:
  
 
 ### Bildes
+[Atvasinājumu grafiku apkopojums] https://github.com/hatertater/RTR105/edit/master/Labori/3ld_derivative/3.png
