@@ -65,3 +65,4 @@ Uzdevums pieprasija 192 iteracijas
 Nemot vera to, ka arctan(-x) ir neperiodiska funkcija, ir iespejams daudz vienkarsaks atrisinajums dotajai problemai (noradits koda komentara formaa) 
 
 ### Bildes
+[Funkcijas grafiks] https://raw.githubusercontent.com/hatertater/RTR105/Labori/2ld_roots/2.png
