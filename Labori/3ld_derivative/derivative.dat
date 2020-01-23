@@ -1,0 +1,36 @@
+//Izteiksme y=atan(-x) intervala [a:b]: 
+//Ievadiet a: 
+//1
+//Ievadiet b: 
+//5
+//Ievadiet kludu: 
+//1
+Pirmas kartas atvasinajums ar analitisko metodi: 
+	x		atan(-x)		atan’(-x)
+      1.00	     -0.79	     -0.50
+      2.00	     -1.11	     -0.20
+      3.00	     -1.25	     -0.10
+      4.00	     -1.33	     -0.06
+      5.00	     -1.37	     -0.04
+Pirmas kartas atvasinajums ar diferencesanu uz prieksu: 
+	x		atan(-x)		atan’(-x)
+      1.00	     -0.79	     -0.32
+      2.00	     -1.11	     -0.14
+      3.00	     -1.25	     -0.08
+      4.00	     -1.33	     -0.05
+      5.00	     -1.37	     -0.03
+Otras kartas atvasinajums ar analitisko metodi: 
+	x		atan(-x)		atan’’(-x)
+      1.00	     -0.79	     -0.80
+      2.00	     -1.11	     -0.96
+      3.00	     -1.25	     -0.99
+      4.00	     -1.33	     -1.00
+      5.00	     -1.37	     -1.00
+Otras kartas atvasinajums ar diferencesanu uz prieksu: 
+	x		atan(-x)		atan’’(-x)
+      1.00	     -0.79	     -0.91
+      2.00	     -1.11	     -0.85
+      3.00	     -1.25	     -0.82
+      4.00	     -1.33	     -0.81
+      5.00	     -1.37	     -0.80
+

@@ -1,0 +1,323 @@
+    1  ls -a
+    2  cd Documents/
+    3  ls
+    4  ls -a
+    5  nano pirmais_labors.c
+    6  gcc pirmais_labors.c -lm
+    7  nano pirmais_labors.c
+    8  gcc pirmais_labors.c -lm
+    9  nano pirmais_labors.c
+   10  gcc pirmais_labors.c -lm
+   11  ./a.out 
+   12  nano pirmais_labors.c
+   13  nano otrais_labors.c
+   14  nano pirmais_labors.c
+   15  gcc pirmais_labors.c -lm
+   16  ./a.out 
+   17  nano pirmais_labors.c
+   18  gcc pirmais_labors.c -lm
+   19  ./a.out 
+   20  nano pirmais_labors.c
+   21  nano otrais_labors.c
+   22  nano tresais_labors.c
+   23  nano ceturtais_labors.c
+   24  cd
+   25  cd Downloads/
+   26  ls
+   27  nano a.out 
+   28  cd
+   29  cd Documents/\
+   30* nano 
+   31  nano ceturtais_labors.c
+   32  nano tresais_labors.c
+   33  nano otrais_labors.c
+   34  nano ceturtais_labors.c
+   35  nano otrais_labors.c
+   36  nano ceturtais_labors.c
+   37  nano tresais_labors.c
+   38  nano ceturtais_labors.c
+   39  gcc ceturtais_labors.c -lm
+   40  nano ceturtais_labors.c
+   41  gcc ceturtais_labors.c -lm
+   42  nano ceturtais_labors.c
+   43  gcc ceturtais_labors.c -lm
+   44  nano ceturtais_labors.c
+   45  gcc ceturtais_labors.c -lm
+   46  nano ceturtais_labors.c
+   47  gcc ceturtais_labors.c -lm
+   48  ./a.out 
+   49  nano ceturtais_labors.c
+   50  gcc ceturtais_labors.c -lm
+   51  ./a.out 
+   52  gcc ceturtais_labors.c -lm
+   53  nano ceturtais_labors.c
+   54  gcc ceturtais_labors.c -lm
+   55  ./a.out 
+   56  nano ceturtais_labors.c
+   57  gcc ceturtais_labors.c -lm
+   58  ./a.out 
+   59  nano ceturtais_labors.c
+   60  gcc ceturtais_labors.c -lm
+   61  ./a.out 
+   62  nano ceturtais_labors.c
+   63  gcc ceturtais_labors.c -lm
+   64  ./a.out 
+   65  nano ceturtais_labors.c
+   66  gcc ceturtais_labors.c -lm
+   67  ./a.out 
+   68  nano ceturtais_labors.c
+   69  gcc ceturtais_labors.c -lm
+   70  ./a.out 
+   71  nano tresais
+   72  nano tresais_labors.c 
+   73  nano ceturtais_labors.c
+   74  gcc ceturtais_labors.c -lm
+   75  nano ceturtais_labors.c
+   76  nano tresais_labors.c 
+   77  nano otrais_labors.c 
+   78  gnuplot
+   79  sudo apt install gnuplot-nox
+   80  sudo dpkg --configure -a
+   81  gnuplot
+   82  sudo apt install gnuplot-nox
+   83  gnuplot
+   84  nano ceturtais_labors.c
+   85  gcc ceturtais_labors.c -lm
+   86  ./a.out 
+   87  nano ceturtais_labors.c
+   88  gcc otrais_labors.c -lm
+   89  nano otrais_labors.c 
+   90  gcc otrais_labors.c -lm
+   91  nano otrais_labors.c 
+   92  gcc otrais_labors.c -lm
+   93  ./a.out 
+   94  nano otrais_labors.c 
+   95  gcc otrais_labors.c -lm
+   96  ./a.out 
+   97  nano otrais_labors.c 
+   98  gcc pirmais_labors.c 
+   99  gcc tresais_labors.c 
+  100  nano tresais_labors.c 
+  101  gcc tresais_labors.c 
+  102  nano tresais_labors.c 
+  103  gcc tresais_labors.c 
+  104  nano tresais_labors.c 
+  105  gcc tresais_labors.c 
+  106  nano tresais_labors.c 
+  107  gcc tresais_labors.c 
+  108  nano tresais_labors.c 
+  109  gcc tresais_labors.c 
+  110  nano tresais_labors.c 
+  111  gcc tresais_labors.c 
+  112  gcc tresais_labors.c -lm
+  113  ./a.out 
+  114  nano tresais_labors.c 
+  115  gcc tresais_labors.c -lm
+  116  ./a.out 
+  117  nano tresais_labors.c 
+  118  gcc tresais_labors.c -lm
+  119  ./a.out 
+  120  nano tresais_labors.c 
+  121  gcc tresais_labors.c -lm
+  122  ./a.out 
+  123  nano tresais_labors.c 
+  124  gcc tresais_labors.c -lm
+  125  ./a.out 
+  126  nano tresais_labors.c 
+  127  gcc tresais_labors.c -lm
+  128  ./a.out 
+  129  nano tresais_labors.c 
+  130  gcc tresais_labors.c -lm
+  131  ./a.out 
+  132  nano derivative.dat
+  133  gcc piektais_labors.c -lm
+  134  ./a.out 
+  135  nano piektais_labors.c 
+  136  gcc piektais_labors.c -lm
+  137  ./a.out 
+  138  git clone https://github.com/hatertater/RTR105
+  139  sudo apt install git
+  140  git clone https://github.com/hatertater/RTR105
+  141  LS
+  142  ls
+  143  ls -a
+  144  cd RTR105/
+  145  -a
+  146  ls
+  147  mkdir Labori
+  148  cd L
+  149  cd Labori/
+  150  mkdir 1ld_series
+  151  mkdir 2ld_roots
+  152  mkdir 
+  153  mkdir 3ld_derivative
+  154  mkdir 4ld_integral
+  155  mkdir 5ld_statistics
+  156  ls
+  157  cd
+  158  cd Documents/
+  159  ls
+  160  mv ceturtais_labors.c RTR105/
+  161  ls
+  162  mv piektais_labors.c RTR105/
+  163  mv pirmais_labors.c RTR105/
+  164  ls
+  165  mv otrais_labors.c RTR105/
+  166  mv tresais_labors.c RTR105/
+  167  mv derivative.dat RTR105/
+  168  cd RTR105/
+  169  ls
+  170  mv derivative.dat Labori/
+  171  mv tresais_labors.c Labori/
+  172  MV piektais_labors.c Labori/
+  173  mv piektais_labors.c Labori/
+  174  mv pirmais_labors.c Labori/
+  175  mv otrais_labors.c Labori/
+  176  mv ceturtais_labors.c Labori/
+  177  cd Labori/
+  178  ls
+  179  mv piektais_labors.c 5ld_statistics/
+  180  mv pirmais_labors.c 1
+  181  mv otrais_labors.c 2
+  182  mv tresais_labors.c 3
+  183  mv ceturtais_labors.c 4
+  184  mv derivative.dat 3
+  185  mv pirmais_labors.c 1ls
+  186  ls
+  187  mv 1 pirmais_labors.c ls
+  188  mv 1 pirmais_labors.c 
+  189  ls
+  190  mv pirmais_labors.c 1ld_series/
+  191  ls
+  192  mv 4 ceturtais_labors.c
+  193  mv ceturtais_labors.c 4ld_integral/
+  194  mv 2 otrais_labors.c
+  195  mv otrais_labors.c 2ld_roots/
+  196  ls
+  197  mv 3 derivative.dat
+  198  mv derivative.dat 3ld_derivative/
+  199  cd 3ld_derivative/
+  200  nano tresais_labors.c
+  201  gcc tresais_labors.c -lm
+  202  ./a.out 
+  203  nano tresais_labors.c
+  204  gcc tresais_labors.c -lm
+  205  nano tresais_labors.c
+  206  gcc tresais_labors.c -lm
+  207  ./a.out 
+  208  nano tresais_labors.c
+  209  gcc tresais_labors.c -lm
+  210  ./a.out 
+  211  nano tresais_labors.c
+  212  gcc tresais_labors.c -lm
+  213  ./a.out 
+  214  nano tresais_labors.c
+  215  gcc tresais_labors.c -lm
+  216  ./a.out 
+  217  nano derivative.dat 
+  218  cd ..
+  219  cd 1ld_series/
+  220  ls
+  221  nano pirmais_labors.c 
+  222  gcc pirmais_labors.c -lm
+  223  nano pirmais_labors.c 
+  224  gcc pirmais_labors.c -lm
+  225  nano pirmais_labors.c 
+  226  gcc pirmais_labors.c -lm
+  227  nano pirmais_labors.c 
+  228  gcc pirmais_labors.c -lm
+  229  ./a.out 
+  230  nano pirmais_labors.c 
+  231  gcc pirmais_labors.c -lm
+  232  ./a.out 
+  233  nano pirmais_labors.c 
+  234  gcc pirmais_labors.c -lm
+  235  ./a.out 
+  236  nano pirmais_labors.c 
+  237  gcc pirmais_labors.c -lm
+  238  ./a.out 
+  239  nano pirmais_labors.c 
+  240  gcc pirmais_labors.c -lm
+  241  ./a.out 
+  242  nano pirmais_labors.c 
+  243  gcc pirmais_labors.c -lm
+  244  ./a.out 
+  245  nano pirmais_labors.c 
+  246  gcc pirmais_labors.c -lm
+  247  ./a.out 
+  248  nano pirmais_labors.c 
+  249  gcc pirmais_labors.c -lm
+  250  ./a.out 
+  251  cd ..
+  252  cd 2ld_roots/
+  253  nano otrais_labors.c
+  254  gcc otrais_labors.c -lm
+  255  nano otrais_labors.c
+  256  gcc otrais_labors.c -lm
+  257  ./a.out 
+  258  nano otrais_labors.c
+  259  gcc otrais_labors.c -lm
+  260  ./a.out 
+  261  nano otrais_labors.c
+  262  gcc otrais_labors.c -lm
+  263  ./a.out 
+  264  gcc otrais_labors.c -lm
+  265  nano otrais_labors.c
+  266  gcc otrais_labors.c -lm
+  267  ./a.out 
+  268  nano otrais_labors.c
+  269  gcc otrais_labors.c -lm
+  270  ./a.out 
+  271  nano otrais_labors.c
+  272  gcc otrais_labors.c -lm
+  273  ./a.out 
+  274  nano otrais_labors.c
+  275  gcc otrais_labors.c -lm
+  276  nano otrais_labors.c
+  277  gcc otrais_labors.c -lm
+  278  ./a.out 
+  279  nano otrais_labors.c
+  280  cd ..
+  281  cd 3ld_derivative/
+  282  gcc tresais_labors.c -lm
+  283  ./a.out 
+  284  nano tresais_labors.c 
+  285  cd ..
+  286  cd 4ld_integral/
+  287  gcc ceturtais_labors.c 
+  288  gcc ceturtais_labors.c -lm
+  289  ./a.out 
+  290  nano ceturtais_labors.c 
+  291  gcc ceturtais_labors.c -lm
+  292  ./a.out 
+  293  nano ceturtais_labors.c 
+  294  gcc ceturtais_labors.c -lm
+  295  ./a.out 
+  296  nano ceturtais_labors.c 
+  297  cd ..
+  298  cd 5ld_statistics/
+  299  gcc piektais_labors.c -lm
+  300  nano 
+  301  nano piektais_labors.c 
+  302  gcc piektais_labors.c -lm
+  303  nano piektais_labors.c 
+  304  gcc piektais_labors.c -lm
+  305  nano piektais_labors.c 
+  306  gcc piektais_labors.c -lm
+  307  ./a.out 
+  308  nano piektais_labors.c 
+  309  gcc piektais_labors.c -lm
+  310  ./a.out 
+  311  nano piektais_labors.c 
+  312  gcc piektais_labors.c -lm
+  313  nano piektais_labors.c 
+  314  gcc piektais_labors.c -lm
+  315  ./a.out 
+  316  nano piektais_labors.c 
+  317  gcc piektais_labors.c -lm
+  318  ./a.out 
+  319  nano piektais_labors.c 
+  320  d ..
+  321  cd ..
+  322  ls
+  323  history > history_20200122.txt
